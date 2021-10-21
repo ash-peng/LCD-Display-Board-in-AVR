@@ -1,8 +1,3 @@
-; Student: Ash Peng
-; Student No.: V00931905
-; Assignment5.asm
-
-
 .cseg
 .org 0x0000
     jmp setup
